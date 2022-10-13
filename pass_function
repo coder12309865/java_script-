@@ -1,2 +1,2 @@
-setInterval('doPeriodically()', 3000);  
-setTimeout('doAfterFiveSeconds()', 5000);
+setInterval(doPeriodically, 1000);  
+setTimeout(doAfterFiveSeconds, 5000);
