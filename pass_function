@@ -1,0 +1,2 @@
+setInterval('doPeriodically()', 3000);  
+setTimeout('doAfterFiveSeconds()', 5000);
